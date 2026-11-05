@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Яндекс.Видео — Прямые ссылки
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.4.1
 // @description  Открывает видео из поиска Яндекса напрямую на сайтах-источниках
 // @match        https://yandex.ru/*
 // @match        https://yandex.com/*
